@@ -1,0 +1,4 @@
+grails-changelog
+================
+
+Grails plugin
